@@ -14,6 +14,10 @@
 - [fictive kin](https://fictivekin.com)
 - [postlight](https://postlight.com)
 - [ueno](https://ueno.co)
+- [weightshift](http://weightshift.com)
+- [rumors](https://rumo.rs)
+- [land](http://www.workbyland.com)
+- [full force work horse](http://fullforcewolfhorse.com)
 
 ## people
 - [turnislefthome](http://www.turnislefthome.com)
@@ -32,6 +36,10 @@
 - [jessica svendsen](http://jessicasvendsen.com)
 - [peter mendelsund](http://covers.petermendelsund.com/index)
 - [ben pieratt](http://pieratt.com)
+- [eli rousso](http://elirousso.com)
+- [jon contino](http://joncontino.com)
+- [tyler deeb](http://tylerdeeb.com)
+- [jen mussari](http://jenmussari.com)
 
 ## blogs
 - [frank chimero](http://www.frankchimero.com/writing/)
@@ -39,6 +47,7 @@
 - [schwabblog](http://billschwabdesign.blogspot.com)
 - [frere jones](https://frerejones.com/blog)
 - [letterror](http://letterror.com)
+- [graphicine](http://www.graphicine.com)
 
 ## foundries
 - [bold monday](https://www.boldmonday.com)
@@ -48,3 +57,4 @@
 - [grilli](https://www.grillitype.com)
 - [helsinki](http://helsinkitypestudio.com)
 - [colophon](https://www.colophon-foundry.org)
+- [storm](https://www.stormtype.com)
