@@ -18,6 +18,9 @@
 - [rumors](https://rumo.rs)
 - [land](http://www.workbyland.com)
 - [full force work horse](http://fullforcewolfhorse.com)
+- [violane et jeremy](http://violaineetjeremy.fr/)
+- [wrk.](http://waaark.com)
+- [samara](http://samara.airbnb.com)
 
 ## people
 - [turnislefthome](http://www.turnislefthome.com)
@@ -40,6 +43,10 @@
 - [jon contino](http://joncontino.com)
 - [tyler deeb](http://tylerdeeb.com)
 - [jen mussari](http://jenmussari.com)
+- [ping zhu](http://www.pingszoo.com)
+- [erik carter](http://erikcarter.net)
+- [eric hu](http://erichu.info)
+- [cameron askin](http://www.cameronaskin.info)
 
 ## blogs
 - [frank chimero](http://www.frankchimero.com/writing/)
@@ -58,3 +65,4 @@
 - [helsinki](http://helsinkitypestudio.com)
 - [colophon](https://www.colophon-foundry.org)
 - [storm](https://www.stormtype.com)
+- [type supply](https://typesupply.com)
