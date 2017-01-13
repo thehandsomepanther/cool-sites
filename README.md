@@ -10,6 +10,10 @@
 - [charles and thorn](https://www.charlesandthorn.com)
 - [manual](http://manualcreative.com)
 - [nervous system](http://n-e-r-v-o-u-s.com)
+- [upstatement](https://www.upstatement.com)
+- [fictive kin](https://fictivekin.com)
+- [postlight](https://postlight.com)
+- [ueno](https://ueno.co)
 
 ## people
 - [turnislefthome](http://www.turnislefthome.com)
@@ -42,4 +46,5 @@
 - [village](https://vllg.com)
 - [okay](http://okaytype.com)
 - [grilli](https://www.grillitype.com)
-- [helsinki](http://helsinkitypestudio.com/#ssaw)
+- [helsinki](http://helsinkitypestudio.com)
+- [colophon](https://www.colophon-foundry.org)
