@@ -47,6 +47,7 @@
 - [erik carter](http://erikcarter.net)
 - [eric hu](http://erichu.info)
 - [cameron askin](http://www.cameronaskin.info)
+- [martin wecke](http://martinwecke.de/)
 
 ## blogs
 - [frank chimero](http://www.frankchimero.com/writing/)
