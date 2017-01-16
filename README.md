@@ -21,6 +21,7 @@
 - [violane et jeremy](http://violaineetjeremy.fr/)
 - [wrk.](http://waaark.com)
 - [samara](http://samara.airbnb.com)
+- [ruki](http://useruki.com/)
 
 ## people
 - [turnislefthome](http://www.turnislefthome.com)
@@ -48,6 +49,11 @@
 - [eric hu](http://erichu.info)
 - [cameron askin](http://www.cameronaskin.info)
 - [martin wecke](http://martinwecke.de/)
+- [allan yu](http://allanyu.nyc/)
+- [kyle meyer](http://kylemeyer.com/)
+- [nuno coelho santos](http://nunocoelhosantos.com/)
+- [justin windle](https://soulwire.co.uk/)
+- [vadik marmeladov](http://www.vadikmarmeladov.com/)
 
 ## blogs
 - [frank chimero](http://www.frankchimero.com/writing/)
