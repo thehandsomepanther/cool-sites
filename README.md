@@ -62,6 +62,7 @@
 - [frere jones](https://frerejones.com/blog)
 - [letterror](http://letterror.com)
 - [graphicine](http://www.graphicine.com)
+- [paper evidence](https://paperevidence.tumblr.com)
 
 ## foundries
 - [bold monday](https://www.boldmonday.com)
