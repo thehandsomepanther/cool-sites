@@ -22,6 +22,8 @@
 - [wrk.](http://waaark.com)
 - [samara](http://samara.airbnb.com)
 - [ruki](http://useruki.com/)
+- [local projects](http://localprojects.net)
+- [fuzzco](http://fuzzco.com)
 
 ## people
 - [turnislefthome](http://www.turnislefthome.com)
