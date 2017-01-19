@@ -26,6 +26,7 @@
 - [fuzzco](http://fuzzco.com)
 
 ## people
+- [paep3nguin](https://github.com/PaeP3nguin)
 - [turnislefthome](http://www.turnislefthome.com)
 - [bobby](http://www.bobbymckenna.us)
 - [dan cassaro](http://www.youngjerks.com)
