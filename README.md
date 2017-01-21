@@ -24,6 +24,9 @@
 - [ruki](http://useruki.com/)
 - [local projects](http://localprojects.net)
 - [fuzzco](http://fuzzco.com)
+- [bakken & baeck](https://bakkenbaeck.com)
+- [railway](http://railway.no/)
+- [underconsideration](http://underconsideration.com)
 
 ## people
 - [turnislefthome](http://www.turnislefthome.com)
@@ -65,6 +68,13 @@
 - [letterror](http://letterror.com)
 - [graphicine](http://www.graphicine.com)
 - [paper evidence](https://paperevidence.tumblr.com)
+
+## editorial
+- [harvard gsd](http://www.gsd.harvard.edu)
+- [the intercept](https://theintercept.com)
+- [the outline](https://theoutline.com)
+- [riposte](http://www.ripostemagazine.com/)
+- [the aesthetics of joy](http://www.aestheticsofjoy.com)
 
 ## foundries
 - [bold monday](https://www.boldmonday.com)
