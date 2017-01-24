@@ -27,6 +27,7 @@
 - [bakken & baeck](https://bakkenbaeck.com)
 - [railway](http://railway.no/)
 - [underconsideration](http://underconsideration.com)
+- [code and theory](http://www.codeandtheory.com)
 
 ## people
 - [turnislefthome](http://www.turnislefthome.com)
@@ -68,6 +69,8 @@
 - [letterror](http://letterror.com)
 - [graphicine](http://www.graphicine.com)
 - [paper evidence](https://paperevidence.tumblr.com)
+- [crap is good](http://crapisgood.com/)
+- [inside intercom](https://blog.intercom.com/)
 
 ## editorial
 - [harvard gsd](http://www.gsd.harvard.edu)
@@ -86,3 +89,4 @@
 - [colophon](https://www.colophon-foundry.org)
 - [storm](https://www.stormtype.com)
 - [type supply](https://typesupply.com)
+- [commerical](https://commercialtype.com)
