@@ -1,0 +1,12 @@
+## foundries
+- [bold monday](https://www.boldmonday.com)
+- [oh no](http://www.ohnotype.co)
+- [village](https://vllg.com)
+- [okay](http://okaytype.com)
+- [grilli](https://www.grillitype.com)
+- [helsinki](http://helsinkitypestudio.com)
+- [colophon](https://www.colophon-foundry.org)
+- [storm](https://www.stormtype.com)
+- [type supply](https://typesupply.com)
+- [commerical](https://commercialtype.com)
+- [razzia](http://razziatype.com)
