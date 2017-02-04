@@ -27,3 +27,5 @@
 - [underconsideration](http://underconsideration.com)
 - [code and theory](http://www.codeandtheory.com)
 - [snask](http://snask.com)
+- [yours truly](http://creative.yourstru.ly)
+- [ustwo](https://ustwo.com)

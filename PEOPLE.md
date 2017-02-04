@@ -29,3 +29,4 @@
 - [nuno coelho santos](http://nunocoelhosantos.com/)
 - [justin windle](https://soulwire.co.uk/)
 - [vadik marmeladov](http://www.vadikmarmeladov.com/)
+- [joakim jansson](http://sanscolour.com)

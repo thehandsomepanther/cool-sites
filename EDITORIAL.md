@@ -16,3 +16,8 @@
 - [the aesthetics of joy](http://www.aestheticsofjoy.com)
 - [B42](http://editions-b42.com)
 - [verso covers](http://versocovers.tumblr.com)
+- [the creative independent](https://thecreativeindependent.com)
+- [surface](http://www.surfacemag.com)
+- [vsco](http://vsco.co/id/journal/p/1)
+- [aqnb](http://www.aqnb.com)
+- [decolonising design](http://decolonisingdesign.com)
