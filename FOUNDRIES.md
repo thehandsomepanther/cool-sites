@@ -10,3 +10,8 @@
 - [type supply](https://typesupply.com)
 - [commerical](https://commercialtype.com)
 - [razzia](http://razziatype.com)
+- [signal](http://signalfoundry.com)
+- [sharp](https://sharptype.co)
+- [klim](https://klim.co.nz)
+- [production](https://www.productiontype.com)
+- [f37](http://www.f37foundry.com)

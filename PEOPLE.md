@@ -30,3 +30,7 @@
 - [justin windle](https://soulwire.co.uk/)
 - [vadik marmeladov](http://www.vadikmarmeladov.com/)
 - [joakim jansson](http://sanscolour.com)
+- [keith dodds](http://keithdodds.com)
+- [bart vollebregt](http://bartvollebregt.com)
+- [alessio d'ellena](http://alessiodellena.com)
+- [selina bernet](http://www.selinabernet.ch/)

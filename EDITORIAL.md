@@ -21,3 +21,6 @@
 - [vsco](http://vsco.co/id/journal/p/1)
 - [aqnb](http://www.aqnb.com)
 - [decolonising design](http://decolonisingdesign.com)
+- [la petite mort](http://www.wearesubrosa.com/la-petite-mort/)
+- [connor davenport](http://connordavenport.tumblr.com)
+- [gurafiku](http://gurafiku.tumblr.com)

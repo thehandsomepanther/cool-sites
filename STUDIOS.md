@@ -29,3 +29,6 @@
 - [snask](http://snask.com)
 - [yours truly](http://creative.yourstru.ly)
 - [ustwo](https://ustwo.com)
+- [vallee duhamel](http://valleeduhamel.com)
+- [work & co](https://work.co)
+- [small stuff](http://smallstuff.us)
