@@ -15,3 +15,6 @@
 - [klim](https://klim.co.nz)
 - [production](https://www.productiontype.com)
 - [f37](http://www.f37foundry.com)
+- [play type](https://playtype.com)
+- [rp](http://www.radimpesko.com)
+- [lineto](https://lineto.com)

@@ -24,3 +24,8 @@
 - [la petite mort](http://www.wearesubrosa.com/la-petite-mort/)
 - [connor davenport](http://connordavenport.tumblr.com)
 - [gurafiku](http://gurafiku.tumblr.com)
+- [never not working](http://never-not-working.tumblr.com)
+- [ueno design](http://ueno.design)
+- [text mode](http://text-mode.tumblr.com)
+- [avery review](http://www.averyreview.com)
+- [spike](http://www.spikeartmagazine.com/en)

@@ -32,3 +32,6 @@
 - [vallee duhamel](http://valleeduhamel.com)
 - [work & co](https://work.co)
 - [small stuff](http://smallstuff.us)
+- [practise](http://practise.co.uk/index.html)
+- [claudiabasel](http://claudiabasel.ch/#home)
+- [bureau borsche](http://bureauborsche.com)

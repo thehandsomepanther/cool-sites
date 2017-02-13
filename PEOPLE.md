@@ -34,3 +34,5 @@
 - [bart vollebregt](http://bartvollebregt.com)
 - [alessio d'ellena](http://alessiodellena.com)
 - [selina bernet](http://www.selinabernet.ch/)
+- [david rudnick](http://davidrudnick.org)
+- [harsh patel](http://harshpatel.com)
