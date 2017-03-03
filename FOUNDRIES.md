@@ -18,3 +18,4 @@
 - [play type](https://playtype.com)
 - [rp](http://www.radimpesko.com)
 - [lineto](https://lineto.com)
+- [camelot](https://camelot-typefaces.com)

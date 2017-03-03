@@ -30,3 +30,6 @@
 - [avery review](http://www.averyreview.com)
 - [spike](http://www.spikeartmagazine.com/en)
 - [internet explorers](http://weareinternetexplorers.com)
+- [bidoun](http://bidoun.org)
+- [vvxs](http://vvxvs.tumblr.com)
+- [practical typography](http://practicaltypography.com)

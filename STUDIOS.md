@@ -36,3 +36,7 @@
 - [claudiabasel](http://claudiabasel.ch/#home)
 - [bureau borsche](http://bureauborsche.com)
 - [number 04](http://number04.com)
+- [p22](http://p22.studio)
+- [active theory](https://activetheory.net)
+- [buck](http://buck.tv/#/)
+- [firebelly](https://www.firebellydesign.com)
