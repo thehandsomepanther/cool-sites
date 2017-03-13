@@ -19,3 +19,8 @@
 - [rp](http://www.radimpesko.com)
 - [lineto](https://lineto.com)
 - [camelot](https://camelot-typefaces.com)
+- [optimo](http://optimo.ch/home.html)
+- [sandrine nugue](https://www.sandrinenugue.com)
+- [letters from sweden](http://lettersfromsweden.se)
+- [underware](http://www.underware.nl)
+= [house](https://houseind.com)

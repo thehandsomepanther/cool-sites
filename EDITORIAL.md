@@ -33,3 +33,5 @@
 - [bidoun](http://bidoun.org)
 - [vvxs](http://vvxvs.tumblr.com)
 - [practical typography](http://practicaltypography.com)
+- [bloomberg cyber division](https://bloombergcyber.tumblr.com)
+- [do the math](http://dothemath.typepad.com)

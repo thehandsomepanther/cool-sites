@@ -4,3 +4,5 @@
 - [design lectures](http://designlectur.es)
 - [an interesting day](https://2016.aninterestingday.com)
 - [computers are fast](http://computers-are-fast.github.io/)
+- [this is responsive](https://bradfrost.github.io/this-is-responsive/)
+- [jacque greene album campaign by hassan rahim](https://twitter.com/hassanrahim/status/837705647810568192)

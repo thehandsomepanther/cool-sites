@@ -40,3 +40,5 @@
 - [active theory](https://activetheory.net)
 - [buck](http://buck.tv/#/)
 - [firebelly](https://www.firebellydesign.com)
+- [sdl](http://www.stockholmdesignlab.se)
+- [great thought facility](http://www.graphicthoughtfacility.com)
