@@ -24,3 +24,5 @@
 - [letters from sweden](http://lettersfromsweden.se)
 - [underware](http://www.underware.nl)
 = [house](https://houseind.com)
+- [binnenland](http://www.binnenland.ch/font/show)
+- [flip matejicek](http://www.filipmatejicek.info/?bodyClass=inverse)

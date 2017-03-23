@@ -45,3 +45,4 @@
 - [mars maiers](http://marsmaiers.com)
 - [neil donnelly](http://www.neildonnelly.net)
 - [benjamin bratton](http://bratton.info)
+- [paul sahre](http://paulsahre.com)
