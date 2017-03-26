@@ -8,6 +8,8 @@
 
 [foundries](FOUNDRIES.md)
 
+[publishers](PUBLISHERS.md)
+
 [games](GAMES.md)
 
 [idk](IDK.md)

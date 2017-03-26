@@ -36,3 +36,4 @@
 - [bloomberg cyber division](https://bloombergcyber.tumblr.com)
 - [do the math](http://dothemath.typepad.com)
 - [archivio grafica italiana](http://www.archiviograficaitaliana.com)
+- [anime signage](https://animesignage.tumblr.com)
