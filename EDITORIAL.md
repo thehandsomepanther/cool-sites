@@ -37,3 +37,6 @@
 - [do the math](http://dothemath.typepad.com)
 - [archivio grafica italiana](http://www.archiviograficaitaliana.com)
 - [anime signage](https://animesignage.tumblr.com)
+- [cmagazine](http://cmagazine.com)
+- [idea](http://www.idea-mag.com/en/)
+

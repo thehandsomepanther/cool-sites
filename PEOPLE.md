@@ -46,3 +46,5 @@
 - [neil donnelly](http://www.neildonnelly.net)
 - [benjamin bratton](http://bratton.info)
 - [paul sahre](http://paulsahre.com)
+- [yosuge ushigome](http://www.yosukeushigo.me/)
+

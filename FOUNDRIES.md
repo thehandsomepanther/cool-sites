@@ -26,3 +26,5 @@
 = [house](https://houseind.com)
 - [binnenland](http://www.binnenland.ch/font/show)
 - [flip matejicek](http://www.filipmatejicek.info/?bodyClass=inverse)
+- [monokrom](https://monokrom.no)
+- [tiny type](https://tinytype.co)
