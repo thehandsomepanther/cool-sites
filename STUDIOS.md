@@ -44,3 +44,5 @@
 - [great thought facility](http://www.graphicthoughtfacility.com)
 - [dpq](http://www.d-p-q.uk)
 - [takram](https://www.takram.com)
+- [ok focus](http://okfoc.us)
+- [nonlinear](http://nonlinear.co)

@@ -47,4 +47,9 @@
 - [benjamin bratton](http://bratton.info)
 - [paul sahre](http://paulsahre.com)
 - [yosuge ushigome](http://www.yosukeushigo.me/)
-
+- [michele champagne](http://michelechampagne.com)
+- [ryder ripps](http://ryder-ripps.com)
+- [nicole he](http://nicole.pizza/)
+- [mel nguyen](http://www.mel-nguyen.com/welcome)
+- [ash thorp](http://ashthorp.com)
+- [devin washburn](http://devinwashburn.com)
