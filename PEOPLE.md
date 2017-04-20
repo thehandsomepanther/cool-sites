@@ -53,3 +53,4 @@
 - [mel nguyen](http://www.mel-nguyen.com/welcome)
 - [ash thorp](http://ashthorp.com)
 - [devin washburn](http://devinwashburn.com)
+- [patrick slack](http://www.patrickslack.info)

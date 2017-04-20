@@ -39,4 +39,4 @@
 - [anime signage](https://animesignage.tumblr.com)
 - [cmagazine](http://cmagazine.com)
 - [idea](http://www.idea-mag.com/en/)
-
+- [power](http://power.weaponsofreason.com)
