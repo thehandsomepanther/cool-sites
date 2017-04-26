@@ -13,3 +13,5 @@
 [games](GAMES.md)
 
 [idk](IDK.md)
+
+[clothes](CLOTHES.md)
