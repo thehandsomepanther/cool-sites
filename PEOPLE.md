@@ -34,7 +34,6 @@
 - [bart vollebregt](http://bartvollebregt.com)
 - [alessio d'ellena](http://alessiodellena.com)
 - [selina bernet](http://www.selinabernet.ch/)
-- [david rudnick](http://davidrudnick.org)
 - [harsh patel](http://harshpatel.com)
 - [raf rennie](http://rafrennie.com)
 - [terkel](https://terkel.com)
@@ -54,3 +53,4 @@
 - [ash thorp](http://ashthorp.com)
 - [devin washburn](http://devinwashburn.com)
 - [patrick slack](http://www.patrickslack.info)
+- [pauline le pape](http://paulinelepape.fr)
