@@ -54,3 +54,4 @@
 - [devin washburn](http://devinwashburn.com)
 - [patrick slack](http://www.patrickslack.info)
 - [pauline le pape](http://paulinelepape.fr)
+- [carly ayers](http://www.carlyayres.com)
