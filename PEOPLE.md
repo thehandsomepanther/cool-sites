@@ -55,3 +55,5 @@
 - [patrick slack](http://www.patrickslack.info)
 - [pauline le pape](http://paulinelepape.fr)
 - [carly ayers](http://www.carlyayres.com)
+- [justin sloane](https://justinsloane.com)
+- [fabrizio schiavi](https://www.fsd.it)

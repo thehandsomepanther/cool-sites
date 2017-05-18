@@ -49,3 +49,4 @@
 - [shuka](https://shuka.design)
 - [kin](http://kin-design.com)
 - [hawraf](http://hawraf.com)
+- [superimpose](http://superimpose.studio)
