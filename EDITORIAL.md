@@ -42,3 +42,4 @@
 - [power](http://power.weaponsofreason.com)
 - [typemag](https://www.typemag.org)
 - [mask mag](http://www.maskmagazine.com)
+- [market for immaterial value](http://www.marketforimmaterialvalue.com)

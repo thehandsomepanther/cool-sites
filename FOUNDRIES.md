@@ -30,3 +30,4 @@
 - [tiny type](https://tinytype.co)
 - [feedtype](https://feedtype.ca/en/)
 - [temporary state](http://typefaces.temporarystate.net/preview/)
+- [ecal](https://ecal-typefaces.ch)
