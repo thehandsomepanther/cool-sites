@@ -31,3 +31,4 @@
 - [feedtype](https://feedtype.ca/en/)
 - [temporary state](http://typefaces.temporarystate.net/preview/)
 - [ecal](https://ecal-typefaces.ch)
+- [revolved](http://www.revolvertype.com/home/)

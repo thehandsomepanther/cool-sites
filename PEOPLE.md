@@ -58,3 +58,4 @@
 - [justin sloane](https://justinsloane.com)
 - [fabrizio schiavi](https://www.fsd.it)
 - [tim walker](http://www.timwalkerphotography.com)
+- [tristan bagot](http://www.tristanbagot.com)
