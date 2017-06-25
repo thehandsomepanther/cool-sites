@@ -66,3 +66,5 @@
 - [ray masaki](http://r-m.work)
 - [kitasenjudesign](https://kitasenjudesign.com/#)
 - [ruben pater](http://untold-stories.net)
+- [taeyoon choi](http://taeyoonchoi.com)
+- [emily pan](http://emilybread.com/index.html)
