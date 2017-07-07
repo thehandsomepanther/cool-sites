@@ -68,3 +68,5 @@
 - [ruben pater](http://untold-stories.net)
 - [taeyoon choi](http://taeyoonchoi.com)
 - [emily pan](http://emilybread.com/index.html)
+- [francis tseng](https://frnsys.com)
+- [leslie nooteboom](http://leslienooteboom.com)
