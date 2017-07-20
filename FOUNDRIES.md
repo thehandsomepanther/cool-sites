@@ -34,3 +34,4 @@
 - [revolved](http://www.revolvertype.com/home/)
 - [swiss typefaces](https://www.swisstypefaces.com)
 - [a is for apple](http://www.aisforapple.fr)
+- [interpretype](http://interpretype.gd1.cz)

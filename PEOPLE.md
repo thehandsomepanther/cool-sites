@@ -70,3 +70,4 @@
 - [emily pan](http://emilybread.com/index.html)
 - [francis tseng](https://frnsys.com)
 - [leslie nooteboom](http://leslienooteboom.com)
+- [alex quicho](http://amfq.net)
