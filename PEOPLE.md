@@ -71,3 +71,5 @@
 - [francis tseng](https://frnsys.com)
 - [leslie nooteboom](http://leslienooteboom.com)
 - [alex quicho](http://amfq.net)
+- [pablo garcia](http://pablogarcia.org)
+- [eliott grunewald](http://www.eliottgrunewald.com)
