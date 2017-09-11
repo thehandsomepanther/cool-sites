@@ -73,3 +73,4 @@
 - [alex quicho](http://amfq.net)
 - [pablo garcia](http://pablogarcia.org)
 - [eliott grunewald](http://www.eliottgrunewald.com)
+- [david chathas](http://bestgraphicdesignerintheworld.com)

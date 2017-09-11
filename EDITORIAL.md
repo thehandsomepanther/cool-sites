@@ -43,3 +43,6 @@
 - [typemag](https://www.typemag.org)
 - [mask mag](http://www.maskmagazine.com)
 - [market for immaterial value](http://www.marketforimmaterialvalue.com)
+- [real life](http://reallifemag.com)
+- [visible language journal](http://visiblelanguagejournal.com)
+- [eros](http://eros.110west40th.com)

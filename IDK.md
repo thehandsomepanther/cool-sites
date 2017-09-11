@@ -12,3 +12,4 @@
 - [effect games color cycling demo](http://www.effectgames.com/demos/canvascycle/)
 - [leviathan cycle](https://leviathan-cycle.com)
 - [computerized forms](http://computerizedforms.com)
+- [abacus pills](http://abacuspills.com)
