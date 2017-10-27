@@ -74,3 +74,5 @@
 - [pablo garcia](http://pablogarcia.org)
 - [eliott grunewald](http://www.eliottgrunewald.com)
 - [david chathas](http://bestgraphicdesignerintheworld.com)
+- [matej lacko](http://matejlacko.com)
+- [lane goldberg](https://builtbylane.com)

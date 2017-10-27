@@ -13,3 +13,5 @@
 - [leviathan cycle](https://leviathan-cycle.com)
 - [computerized forms](http://computerizedforms.com)
 - [abacus pills](http://abacuspills.com)
+- [ideas city 2017](http://2017.ideas-city.org)
+- [building intercom](https://www.buildingintercom.com)
