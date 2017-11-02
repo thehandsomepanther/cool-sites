@@ -76,3 +76,8 @@
 - [david chathas](http://bestgraphicdesignerintheworld.com)
 - [matej lacko](http://matejlacko.com)
 - [lane goldberg](https://builtbylane.com)
+- [isamaya ffrench](http://isamayaffrench.com)
+- [leon sadler](http://lmsn.eu)
+- [joel plosz](http://joelplosz.tumblr.com)
+- [ori toor](http://oritoor.com)
+- [veronyka jelinek](http://cargocollective.com/veronyka)

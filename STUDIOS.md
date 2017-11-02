@@ -56,3 +56,4 @@
 - [rndr](https://rndr.studio)
 - [b.a.-ba](http://www.b-a-ba.works/index.html#ace)
 - [colophon](http://www.colophon.info)
+- [darden studio](http://www.dardenstudio.com)
