@@ -81,3 +81,6 @@
 - [joel plosz](http://joelplosz.tumblr.com)
 - [ori toor](http://oritoor.com)
 - [veronyka jelinek](http://cargocollective.com/veronyka)
+- [nick montfort](http://nickm.com)
+- [alexander galloway](http://cultureandcommunication.org/galloway/)
+- [john caserta](http://johncaserta.com)

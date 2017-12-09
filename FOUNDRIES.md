@@ -35,3 +35,4 @@
 - [swiss typefaces](https://www.swisstypefaces.com)
 - [a is for apple](http://www.aisforapple.fr)
 - [interpretype](http://interpretype.gd1.cz)
+- [bretagne](http://www.bretagnebretagne.fr)
