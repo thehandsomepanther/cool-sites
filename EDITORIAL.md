@@ -47,3 +47,4 @@
 - [visible language journal](http://visiblelanguagejournal.com)
 - [eros](http://eros.110west40th.com)
 - [GIFGA](http://gifga.com)
+- [bldgblog](http://www.bldgblog.com)
